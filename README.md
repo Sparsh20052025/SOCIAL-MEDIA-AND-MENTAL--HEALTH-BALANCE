@@ -137,13 +137,12 @@ Collect larger, more diverse datasets for improved insights.
  Shri Ramswaroop Memorial University  
  
 
- **SHEEZAN RIZVI**
+ **MOHAMMAD SHIZAN RIZVI**
  
- 2022101011507153
+ 202210101150153
  
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University
- 
 
  
  
