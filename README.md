@@ -135,12 +135,6 @@ Collect larger, more diverse datasets for improved insights.
 
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University  
- 
-
- **MOHAMMAD SHIZAN RIZVI**
- 
- 202210101150153
- 
  B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University
 
