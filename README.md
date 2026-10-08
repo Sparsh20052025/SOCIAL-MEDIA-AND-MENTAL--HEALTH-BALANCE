@@ -134,10 +134,4 @@ Collect larger, more diverse datasets for improved insights.
 202310101150712
 
  B.Tech Computer Science (Data Science & AI)  
- Shri Ramswaroop Memorial University  
- B.Tech Computer Science (Data Science & AI)  
  Shri Ramswaroop Memorial University
-
- 
- 
-
